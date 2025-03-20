@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple Flappy Bird clone created in Unity. This project includes basic mechanics such as the player character, obstacle spawning, score tracking, and game-over functionality.
+A simple Flappy Bird android game created in Unity. This project includes basic mechanics such as the player character, obstacle spawning, score tracking, and game-over functionality.
 
 ## Features
 
@@ -22,7 +22,3 @@ A simple Flappy Bird clone created in Unity. This project includes basic mechani
 ## Controls
 
 - **Tap/Click** to make the bird jump/fly.
-  
-## License
-
-This project is open-source and available under the MIT License.
